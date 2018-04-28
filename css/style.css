@@ -1,0 +1,59 @@
+.jumbotron{
+  background-image: url("../backgrounds/landing.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+}
+.logohead{
+  margin: auto;
+  top: auto;
+  bottom: auto;
+  width: 25%;
+}
+#breakfast{
+  background-image: url("/home/chris/moringa-school-projects/Anitas-kitchen/foodtop/breakfast.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 210px;
+  width: 350px;
+  margin-top: 0px;
+}
+#lunch{
+  background-image: url("/home/chris/moringa-school-projects/Anitas-kitchen/foodtop/lunch.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 210px;
+  width: 350px;
+  margin-top: 0px;
+  }
+#dinner{
+  background-image: url("/home/chris/moringa-school-projects/Anitas-kitchen/foodtop/dinner.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 210px;
+  width: 350px;
+  margin-top: 0px
+}
+#happy{
+  padding-left: 50px;
+}
+#party{
+
+}
+#second{
+  padding-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jumbotron{
+  top: auto;
+  bottom: auto;
+}
+@media screen and (min-width:768px) and (min-aspect-ratio:16/9) {
+.pw-m-stage--full header {
+  max-height: 100vh;
+  height: 56.25vw;
+  min-height: 400px;
+  overflow: hidden;
+}
+}
