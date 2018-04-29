@@ -49,11 +49,3 @@
   top: auto;
   bottom: auto;
 }
-@media screen and (min-width:768px) and (min-aspect-ratio:16/9) {
-.pw-m-stage--full header {
-  max-height: 100vh;
-  height: 56.25vw;
-  min-height: 400px;
-  overflow: hidden;
-}
-}
