@@ -1,51 +1,9 @@
-.jumbotron{
-  background-image: url("../backgrounds/landing.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-position: center;
-}
-.logohead{
-  margin: auto;
-  top: auto;
-  bottom: auto;
-  width: 25%;
-}
-#breakfast{
-  background-image: url("/home/chris/moringa-school-projects/Anitas-kitchen/foodtop/breakfast.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
-  height: 210px;
-  width: 350px;
-  margin-top: 0px;
-}
-#lunch{
-  background-image: url("/home/chris/moringa-school-projects/Anitas-kitchen/foodtop/lunch.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
-  height: 210px;
-  width: 350px;
-  margin-top: 0px;
-  }
-#dinner{
-  background-image: url("/home/chris/moringa-school-projects/Anitas-kitchen/foodtop/dinner.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
-  height: 210px;
-  width: 350px;
-  margin-top: 0px
-}
-#happy{
-  padding-left: 50px;
-}
-#party{
-
-}
-#second{
-  padding-top: 0px;
-  margin-left: auto;
-  margin-right: auto;
-}
-.jumbotron{
-  top: auto;
-  bottom: auto;
+.header {
+  background-image: url("/home/chris/moringa-school-projects/Anitas-kitchen/backgrounds/landing.jpg");
+  padding-top: 5%;
+  padding-bottom: 10%;
+  text-align: left;
+  color: white;
+  font-family: serif;
+  font-weight: lighter;
 }
