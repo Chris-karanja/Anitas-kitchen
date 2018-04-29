@@ -125,3 +125,22 @@
     padding-top: 5%;
     color: white;
   }
+  .button2 {
+  background-color:#F15A29;
+  color: white;
+  height: 40px;
+  width: 200px;
+  border-color: #F15A29;
+  border-radius: 4px;
+  font-size: 20px;
+  border: 1px;
+}
+.button3 {
+  background-color: white;
+   color: #F15A29;
+   border: 2px solid #F15A29;
+   border-radius: 4px;
+   width: 200px;
+   height: 50px;
+   font-weight: bold;
+}
