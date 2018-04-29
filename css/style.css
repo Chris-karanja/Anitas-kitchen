@@ -35,3 +35,19 @@
   margin: 100px;
   margin-left: 50px;
 }
+.border-right {
+   border-right: 1px solid #333;
+ }
+  .customers {
+    text-align: center;
+  }
+.menu {
+  text-align: center;
+}
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
