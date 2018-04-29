@@ -7,3 +7,31 @@
   font-family: serif;
   font-weight: lighter;
 }
+.box1 {
+  border: 1px solid #333;
+  height: 392px;
+  width: 492px;
+}
+.box2 {
+  border: 1px solid #333;
+  height: 392px;
+  width: 496px;
+}
+.box3 {
+  background-color: white;
+  color: #CC6600;
+  border: 1px;
+  width: 1000px;
+  height: 400px;
+  font-weight: bold;
+  padding-left: 3%;
+  padding-top: 5%
+}
+.box4 {
+  background-color: white;
+  border: 1px solid #333;
+  width: 1000px;
+  height: 200px;
+  margin: 100px;
+  margin-left: 50px;
+}
